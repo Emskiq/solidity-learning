@@ -13,3 +13,15 @@
 [submodule "cyfrin-updraft/foundry-fundamentals/fund-me/lib/foundry-devops"]
 	path = cyfrin-updraft/foundry-fundamentals/fund-me/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "cyfrin-updraft/foundry-fundamentals/lottery/lib/forge-std"]
+	path = cyfrin-updraft/foundry-fundamentals/lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "cyfrin-updraft/foundry-fundamentals/lottery/lib/chainlink-brownie-contracts"]
+	path = cyfrin-updraft/foundry-fundamentals/lottery/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "cyfrin-updraft/foundry-fundamentals/lottery/lib/solmate"]
+	path = cyfrin-updraft/foundry-fundamentals/lottery/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "cyfrin-updraft/foundry-fundamentals/lottery/lib/foundry-devops"]
+	path = cyfrin-updraft/foundry-fundamentals/lottery/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
