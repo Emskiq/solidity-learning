@@ -40,3 +40,6 @@
 [submodule "cyfrin-updraft/advanced-foundry/nft/lib/foundry-devops"]
 	path = cyfrin-updraft/advanced-foundry/nft/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "cyfrin-updraft/advanced-foundry/defi-stablecoin/lib/forge-std"]
+	path = cyfrin-updraft/advanced-foundry/defi-stablecoin/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
