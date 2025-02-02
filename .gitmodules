@@ -25,3 +25,18 @@
 [submodule "cyfrin-updraft/foundry-fundamentals/lottery/lib/foundry-devops"]
 	path = cyfrin-updraft/foundry-fundamentals/lottery/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "cyfrin-updraft/advanced-foundry/erc20/lib/forge-std"]
+	path = cyfrin-updraft/advanced-foundry/erc20/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "cyfrin-updraft/advanced-foundry/erc20/lib/openzeppelin-contracts"]
+	path = cyfrin-updraft/advanced-foundry/erc20/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "cyfrin-updraft/advanced-foundry/nft/lib/forge-std"]
+	path = cyfrin-updraft/advanced-foundry/nft/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "cyfrin-updraft/advanced-foundry/nft/lib/openzeppelin-contracts"]
+	path = cyfrin-updraft/advanced-foundry/nft/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "cyfrin-updraft/advanced-foundry/nft/lib/foundry-devops"]
+	path = cyfrin-updraft/advanced-foundry/nft/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
