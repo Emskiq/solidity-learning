@@ -52,3 +52,15 @@
 [submodule "cyfrin-updraft/advanced-foundry/defi-stablecoin/lib/chainlink-brownie-contracts"]
 	path = cyfrin-updraft/advanced-foundry/defi-stablecoin/lib/chainlink-brownie-contracts
 	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/forge-std"]
+	path = cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/openzeppelin-contracts"]
+	path = cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/murky"]
+	path = cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/murky
+	url = https://github.com/dmfxyz/murky
+[submodule "cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/foundry-devops"]
+	path = cyfrin-updraft/advanced-foundry/merkle-airdrop/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
