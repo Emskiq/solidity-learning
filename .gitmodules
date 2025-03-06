@@ -88,3 +88,9 @@
 [submodule "cyfrin-updraft/advanced-foundry/temp/--zksync/lib/forge-std"]
 	path = cyfrin-updraft/advanced-foundry/temp/--zksync/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "cyfrin-updraft/advanced-foundry/dao/lib/forge-std"]
+	path = cyfrin-updraft/advanced-foundry/dao/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "cyfrin-updraft/advanced-foundry/dao/lib/openzeppelin-contracts"]
+	path = cyfrin-updraft/advanced-foundry/dao/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
