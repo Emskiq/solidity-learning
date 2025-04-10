@@ -100,3 +100,6 @@
 [submodule "crowdfunding-platform/lib/openzeppelin-contracts"]
 	path = crowdfunding-platform/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "cyfrin-updraft/security-and-auditing/prerequisites/lib/forge-std"]
+	path = cyfrin-updraft/security-and-auditing/prerequisites/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
